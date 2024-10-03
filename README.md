@@ -32,6 +32,8 @@ If you find any mistakes, please contact chungsam@cityu.edu.
 #### SQLite
 * [SQLite. (2024). SQLite Home Page. SQLite.org.](https://www.sqlite.org/)
 * [SQLite Tutorial - An easy way to master SQLite fast. (2024, May 5).](https://www.sqlitetutorial.net/)
+* [SQLite Sample Database](https://www.sqlitetutorial.net/sqlite-sample-database/)
+
 #### MongoDB
 * [MongoDB Atlas - Resources](https://www.mongodb.com/docs/atlas/)
 * [MongoDB - Express & MongoDB](https://www.mongodb.com/compatibility/express)
