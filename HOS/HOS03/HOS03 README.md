@@ -2,4 +2,5 @@
 
 ## Resource
 ### SQLite DB
-* N/A
+* world.db
+* test.db
