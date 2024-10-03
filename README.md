@@ -1,21 +1,19 @@
 # examples-is456
+## IS456 Database Systems Management
 
-# cs452-examples
-CS 628 Backend Web Development
-
-Students can find the examples that will be used for their practices in lecture or HOS (Hands-on Skills).
+Students can find the examples that will be used for their practices in lecture, hands-on skills, or practices.
 If you find any mistakes, please contact chungsam@cityu.edu.
 
-* Module 01 - Cloud Development Environment 
-* Module 02 - React Fundamentals
-* Module 03 - React - User Interface
-* Module 04 - React - Interaction and State
-* Module 05 - React - State & What You Step Outside
-* Module 06 - React Router
-* Module 07 - MongoDB Atlas
-* Module 08 - Node, Express, and Express Router
-* Module 09 - MERN
-* Module 10 - Authentication
+* Module 01 - Enterprise Database Management Systems 
+* Module 02 - Database Architecture and Models
+* Module 03 - Database Queries and SQL Operators
+* Module 04 - SQL Joins, Clauses, and Logical Operators
+* Module 05 - SQL Operators, Functions, and Subqueries
+* Module 06 - Database Design
+* Module 07 - Storage, Transaction, Big Data, & NoSQL
+* Module 08 - Business Intelligence
+* Module 09 - Data Warehouses
+* Module 10 - Database Connectivity, Web Application, and Blockchain
 
 ## Resource
 ### Development Environment
@@ -23,33 +21,20 @@ If you find any mistakes, please contact chungsam@cityu.edu.
 * [GitHub Codespaces](https://docs.github.com/en/codespaces)
 * [About billing for GitHub Codespaces](https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces)
 * [Cloud IDE - VSCode for the Web](https://code.visualstudio.com/docs/editor/vscode-web)
-### Front End
-#### React
-* [create-react-app - Getting Started](https://create-react-app.dev/docs/getting-started)
-* [React - React Quick Start](https://beta.reactjs.org/learn)
-* [W3School - React Tutorial](https://www.w3schools.com/react/default.asp)
-* [W3Schools - HTML Tutorial](https://www.w3schools.com/html/default.asp)
-* [W3Schools - CSS Tutorial](https://www.w3schools.com/css/default.asp)
-* [W3Schools - Bootstrap Tutorial](https://www.w3schools.com/bootstrap5/index.php)
-* [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
-* [MDN - HTML Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [MDN - CSS Tutorial](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [MDN - JavaScript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-### Back End
+* [GitHub. (2024a). GitHub Codespaces overview - GitHub Docs. GitHub Docs.](https://docs.github.com/en/codespaces/overview#what-is-a-codespace)
+* [GitHub. (2024b). What is GitHub Copilot? - GitHub Docs. GitHub Docs.](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)
+* [OpenAI. (2024). ChatGPT. Openai.com.](https://openai.com/chatgpt/)
+* [Google. (2024). Gemini. Gemini.](https://gemini.google.com/faq)
+* [Microsoft (2024). Copilot. Start Your Copilot Journey | Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-copilot/meet-copilot?ef_id=_k_CjwKCAjwxNW2BhAkEiwA24Cm9JYZY8y_RID39NTm3SVAutQ9JLMH8F3XzlwGnkiPqKYMN_spCU7jMxoCrYoQAvD_BwE_k_&OCID=AIDcmm9xzw3cn3_SEM__k_CjwKCAjwxNW2BhAkEiwA24Cm9JYZY8y_RID39NTm3SVAutQ9JLMH8F3XzlwGnkiPqKYMN_spCU7jMxoCrYoQAvD_BwE_k_&gad_source=1&gclid=CjwKCAjwxNW2BhAkEiwA24Cm9JYZY8y_RID39NTm3SVAutQ9JLMH8F3XzlwGnkiPqKYMN_spCU7jMxoCrYoQAvD_BwE)
+
 #### Node
 * [Node - Getting Started](https://nodejs.dev/en/learn/)
 * [W3Schools - Node Tutorial](https://www.w3schools.com/nodejs/)
-#### Express
-* [Express - Home](https://expressjs.com/)
+#### SQLite
+* [SQLite. (2024). SQLite Home Page. SQLite.org.](https://www.sqlite.org/)
+* [SQLite Tutorial - An easy way to master SQLite fast. (2024, May 5).](https://www.sqlitetutorial.net/)
 #### MongoDB
 * [MongoDB Atlas - Resources](https://www.mongodb.com/docs/atlas/)
 * [MongoDB - Express & MongoDB](https://www.mongodb.com/compatibility/express)
 * [MongoDB Node.js Developer Path](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path)
 * [W3Schools - MongoDB Tutorial](https://www.w3schools.com/mongodb/index.php)
-
-### MERN Stack Examples
-* [Pro MERN Stack: Full Stack Web App Development with Mongo, Express, React, and Node](https://samchung0117-sturdy-pancake-v6pxvxv7r6rh4vr.github.dev/)
-* [MongoDB - How to Use MERN Stack: A Complete Guide](https://www.mongodb.com/languages/mern-stack-tutorial)
-
-### Authentication
-* [Passport](https://www.passportjs.org/docs/)
