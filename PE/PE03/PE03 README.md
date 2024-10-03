@@ -1,4 +1,4 @@
-# PE02: Database Architecture and Models
+# PE03: Database Queries and SQL Operators
 
 ## Resource
 ### SQLite DB
