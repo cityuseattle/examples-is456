@@ -1,4 +1,4 @@
-# PE01: Enterprise Database Management Systems 
+# PE01: Database Architecture and Models
 
 ## Resource
 ### SQLite DB

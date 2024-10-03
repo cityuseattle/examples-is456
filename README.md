@@ -1,6 +1,5 @@
-# examples-is456
-## IS456 Database Systems Management
-
+# IS456 Database Systems Management
+## Overview
 Students can find the examples that will be used for their practices in lecture, hands-on skills, or practices.
 If you find any mistakes, please contact chungsam@cityu.edu.
 
