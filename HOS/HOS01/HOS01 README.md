@@ -1,4 +1,4 @@
-# HOS01: Cloud Development Environment  (CDE)
+# HOS01: Enterprise Database Management Systems 
 ## IS456 Database Systems Management
 
 
