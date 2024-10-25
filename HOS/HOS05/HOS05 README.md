@@ -1,4 +1,4 @@
-# HOS05: SQL Operators, Functions, and Subqueries
+# HOS05 – Aggregates and Subqueries
 
 ## Resource
 ### SQLite DB
